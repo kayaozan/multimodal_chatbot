@@ -19,6 +19,6 @@ The script is written in Python. The required software and libraries are as foll
 ## Final Look
 Here is how the page looks once the script is run by streamlit in a web browser.
 
-User can upload an image as seen on the right side. The chat stream is demonstrated on the other side.
+User can upload an image on the left side. The stream of chat is demonstrated on the other side.
 
 ![Screenshot 2025-02-10 201333](https://github.com/user-attachments/assets/abd83b08-c9eb-4de2-bad5-1d14496342c2)
